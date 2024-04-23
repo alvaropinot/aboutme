@@ -28,6 +28,17 @@
       }
     ]
   },
+  "education": [
+    {
+      "institution": "UAM - Universidad Autonoma de Madrid",
+      "url": "https://uam.es/",
+      "area": "Information Technology",
+      "studyType": "Bachelor",
+      "startDate": "2012-06-01",
+      "endDate": "2015-06-01",
+      "courses": ["DB1101 - SQL", "CS2011 - Foo"]
+    }
+  ],
   "skills": [
     {
       "name": "Web Development",
