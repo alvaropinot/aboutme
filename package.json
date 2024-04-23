@@ -1,0 +1,39 @@
+{
+  "name": "aboutme",
+  "version": "1.0.0",
+  "description": "Alvaro Pinot Resume & Projects",
+  "main": "index.js",
+  "scripts": {
+    "serve": "resume serve",
+    "tunnel": "npx localtunnel --port 4000 -s alvaropinot",
+    "export": "resume export AlvaroPinot-CV.pdf && resume export AlvaroPinot-CV.html",
+    "build": "npm run export",
+    "help": "resume --help",
+    "test": "resume test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alvaropinot/aboutme.git"
+  },
+  "keywords": [
+    "aboutme",
+    "about",
+    "me",
+    "Alvaro",
+    "Pinot",
+    "alvaropinot"
+  ],
+  "author": "Alvaro Pinot <alvaro@neatnait.com> (http://github.com/alvaropinot)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alvaropinot/aboutme/issues"
+  },
+  "homepage": "https://github.com/alvaropinot/aboutme#readme",
+  "dependencies": {
+    "@jsonresume/jsonresume-theme-class": "^0.4.1",
+    "jsonresume-theme-elegant": "^1.16.1",
+    "jsonresume-theme-jsonresume-theme-bhdouglass": "^0.3.7",
+    "jsonresume-theme-macchiato": "^1.1.0",
+    "resume-cli": "^2.1.3"
+  }
+}
