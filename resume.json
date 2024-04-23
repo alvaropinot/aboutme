@@ -9,7 +9,24 @@
       "city": "Madrid",
       "countryCode": "ES",
       "region": "Spain"
-    }
+    },
+    "profiles": [
+      {
+        "network": "Github",
+        "username": "alvaropinot",
+        "url": "https://github.com/alvaropinot"
+      },
+      {
+        "network": "Twitter",
+        "username": "alvaropinot",
+        "url": "https://twitter.com/alvaropinot"
+      },
+      {
+        "network": "Unsplash",
+        "username": "alvaropinot",
+        "url": "https://unsplash.com/@alvaropinot"
+      }
+    ]
   },
   "meta": {
     "canonical": "https://raw.githubusercontent.com/jsonresume/resume-schema/master/resume.json",
