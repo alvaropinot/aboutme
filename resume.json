@@ -28,6 +28,21 @@
       }
     ]
   },
+  "work": [
+    {
+      "pinned": true,
+      "name": "NeatNait",
+      "company": "NeatNait",
+      "location": "Madrid, ES",
+      "description": "NeaNait",
+      "position": "Co-Founder",
+      "url": "http://neatnait.com",
+      "website": "http://neatnait.com",
+      "startDate": "2008-09-09",
+      "summary": "NeatNait desc",
+      "highlights": []
+    }
+  ],
   "education": [
     {
       "institution": "UAM - Universidad Autonoma de Madrid",
