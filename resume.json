@@ -107,6 +107,34 @@
       "fluency": "Basic"
     }
   ],
+  "interests": [
+    {
+      "name": "Gardening"
+    },
+    {
+      "name": "Music"
+    },
+    {
+      "name": "Reading"
+    },
+    {
+      "name": "Writing"
+    },
+    {
+      "name": "Cinema"
+    },
+    {
+      "name": "Photography"
+    },
+
+    {
+      "name": "3D Priting"
+    },
+    {
+      "name": "Open Source",
+      "keywords": ["Rainbows", "Unicorns"]
+    }
+  ],
   "meta": {
     "canonical": "https://raw.githubusercontent.com/jsonresume/resume-schema/master/resume.json",
     "version": "v1.0.0",
