@@ -194,19 +194,20 @@
   "volunteer": [
     {
       "organization": "Cruz Roja",
+      "summary": "",
       "position": "Eldery Caretaker",
       "website": "https://www.linkedin.com/company/cruz-roja/",
       "startDate": "2005-03-31",
       "endDate": "2008-10-31",
-      "summary": null,
+      "summary": "",
       "highlights": []
     },
     {
       "organization": "Exercism",
+      "summary": "",
       "position": "Mentor",
       "website": "https://www.linkedin.com/company/exercism/",
       "startDate": "2019-08-31",
-      "endDate": "",
       "summary": "Focus on individual practice and mentor-based learning for coding, engineering and critical thinking skills.",
       "highlights": []
     }
@@ -227,7 +228,7 @@
     {
       "title": "Founder, host and coach of GameJamOn - GlobaGameJam 2016",
       "date": "2016-01-31",
-      "awarder": null,
+      "awarder": "",
       "summary": "Founder, host and coach of GameJamOn - GlobaGameJam 2016"
     },
     {
@@ -245,13 +246,13 @@
     {
       "title": "Founder and coach GameJamOn - GlobaGameJam 2015",
       "date": "2015-01-31",
-      "awarder": null,
+      "awarder": "",
       "summary": "Founder and coach GameJamOn - GlobaGameJam 2015"
     },
     {
       "title": "Ponente en la semana de la ciencia de la UAM",
       "date": "2013-12-31",
-      "awarder": null,
+      "awarder": "",
       "summary": "Ponente sobre emprendimiento y nuevas tecnologías (nodejs, javascript, html5, css3)."
     },
     {
