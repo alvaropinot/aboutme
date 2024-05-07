@@ -203,6 +203,24 @@
       "website": ""
     }
   ],
+  "volunteer": [
+    {
+      "organization": "Cruz Roja",
+      "position": "Eldery Caretaker",
+      "website": "https://www.linkedin.com/company/cruz-roja/",
+      "startDate": "2005-03-31",
+      "endDate": "2008-10-31",
+      "summary": null,
+      "highlights": []
+    },
+    {
+      "organization": "Exercism",
+      "position": "Mentor",
+      "website": "https://www.linkedin.com/company/exercism/",
+      "startDate": "2019-08-31",
+      "endDate": "",
+      "summary": "Focus on individual practice and mentor-based learning for coding, engineering and critical thinking skills.",
+      "highlights": []
     }
   ],
   "education": [
