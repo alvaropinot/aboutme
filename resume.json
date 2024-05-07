@@ -225,13 +225,52 @@
   ],
   "education": [
     {
-      "institution": "UAM - Universidad Autonoma de Madrid",
+      "institution": "UAM - Universidad Autónoma de Madrid",
+      "gpa": "",
+      "courses": [],
       "url": "https://uam.es/",
       "area": "Information Technology",
       "studyType": "Bachelor",
       "startDate": "2012-06-01",
-      "endDate": "2015-06-01",
-      "courses": ["DB1101 - SQL", "CS2011 - Foo"]
+      "endDate": "2015-06-01"
+    }
+  ],
+  "awards": [
+    {
+      "title": "Founder, host and coach of GameJamOn - GlobaGameJam 2016",
+      "date": "2016-01-31",
+      "awarder": null,
+      "summary": "Founder, host and coach of GameJamOn - GlobaGameJam 2016"
+    },
+    {
+      "title": "Host and contributor Google Startup Weekend Madrid",
+      "date": "2015-04-30",
+      "awarder": "Google",
+      "summary": "Host and contributor Google Startup Weekend Madrid"
+    },
+    {
+      "title": "Winner Google Startup Weekend Barcelona",
+      "date": "2015-02-28",
+      "awarder": "Google",
+      "summary": "Winner Google Startup Weekend Barcelona"
+    },
+    {
+      "title": "Founder and coach GameJamOn - GlobaGameJam 2015",
+      "date": "2015-01-31",
+      "awarder": null,
+      "summary": "Founder and coach GameJamOn - GlobaGameJam 2015"
+    },
+    {
+      "title": "Ponente en la semana de la ciencia de la UAM",
+      "date": "2013-12-31",
+      "awarder": null,
+      "summary": "Ponente sobre emprendimiento y nuevas tecnologías (nodejs, javascript, html5, css3)."
+    },
+    {
+      "title": "Hackathon Vueling",
+      "date": "2013-11-30",
+      "awarder": "Vueling",
+      "summary": "Miembro de grupo finalista en el Hackathon sobre aplicaciones móviles 2013 de Vueling."
     }
   ],
   "skills": [
