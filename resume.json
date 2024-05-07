@@ -49,19 +49,17 @@
       "url": "http://neatnait.com",
       "website": "http://neatnait.com",
       "startDate": "2004-09-09",
+      "startDate": "2004-09-09",
       "summary": "NeatNait desc",
       "highlights": []
     },
     {
       "name": "Rocket Doctor",
       "company": "Rocket Doctor",
-      "location": "Toronto, ON, Canada",
-      "description": "Rocket Doctor",
-      "position": "CTO / Senior Director Of Engineering",
-      "url": "http://piedpiper.example.com",
-      "startDate": "2021-09-01",
-      "endDate": "2022-12-01",
       "summary": "Patients: Patients can access their medical records, schedule appointments, and communicate with their doctor securely through the Rocket Doctor portal. Licensed Physicians: Rocket Doctor works with licensed physicians who are experienced in providing medical care.",
+      "endDate": "2022-12-31",
+      "description": "Rocket Doctor",
+      "location": "Toronto, ON, Canada",
       "highlights": [
         "Provided strategic leadership and direction for the technology team to align with business objectives and goals.",
         "Defined and executed the technology roadmap, ensuring alignment with the company's vision and long-term strategy.",
@@ -72,18 +70,22 @@
         "Collaborated with cross-functional teams, including product management and operations, to drive product development and delivery.",
         "Identified and mitigated technical risks, ensuring the stability and security of technology platforms and infrastructure.",
         "Represented the company in technical forums, conferences, and industry events to promote thought leadership and brand visibility."
-      ]
+      ],
+      "position": "CTO / Senior Director Of Engineering",
+      "startDate": "2021-11-30",
+      "endDate": "2022-12-01",
+      "website": "https://www.linkedin.com/company/rocket-doctor/",
+      "url": "https://www.linkedin.com/company/rocket-doctor/"
     },
     {
-      "name": "Tribalscale",
-      "company": "Tribalscale",
-      "location": "Toronto, ON",
+      "company": "TribalScale",
       "description": "Digital Transformation Boutique",
       "position": "Director Of Engineering",
+      "startDate": "2017-09-30",
+      "summary": "Lead Cultural Transformation engagements.\nMentor and level-up engineers through holding workshops, designing and giving anchor training, spending 1:1 time with engineers on projects\nActively participate in engineering thought leadership: write blogs, speak at conferences, help marketing in providing customer facing technical content, and hold meetups.\nSupport HR with hiring and interviewing.\nContribute to the company and company culture by being a shining example of attitude and collaboration.\nSteward developer advocacy at TribalScale: suggest and implement engineering toolsets, own engineering retro and prioritizing action items, help design build and release cycle for QA, weekly client releases, and production releases. All to be aligned with extreme programming methodologies.\nProvide engineering support to business development during pre-sales.",
+      "website": "https://www.linkedin.com/company/tribalscale/",
       "url": "https://Tribalscale.com",
-      "startDate": "2017-12-01",
-      "endDate": "2020-12-01",
-      "summary": "Tribalscale help clients modernize and align their technology, people, and processes with business goals. Tribalscasle alters the way our clients build software and digital products as an organization.",
+      "endDate": "2020-09-30",
       "highlights": [
         "Lead a team of 300 software engineers in the development of corporate digital transformation.",
         "Collaborated with stakeholders to define project scope, objectives, and deliverables.",
@@ -102,7 +104,7 @@
       "description": "Awesome compression company",
       "position": "Developer Advocate",
       "url": "https://emirates.com",
-      "startDate": "2017-08-01",
+      "startDate": "2017-08-31",
       "endDate": "2017-12-01",
       "summary": "Leading a team of 8 developers in designing and building the emirates.com relaunch in a 4 month period. Collaborating with designers, product owners, and stakeholders to ensure project goals are met. Ensuring code quality, security, and maintainability through best practices and testing. Integrating Docker and JavaScript libraries as needed",
       "company": "Emirates",
@@ -112,78 +114,53 @@
       "name": "Noon.com",
       "location": "Dubai, United Arab Emirates",
       "description": "Awesome compression company",
+      "highlights": [],
       "position": "Developer Advocate & Tech Lead",
-      "url": "https://noon.com",
-      "startDate": "2016-09-01",
-      "endDate": "2017-08-01",
-      "summary": "Noon.com is a UAE-based e-commerce company that aims to revolutionize the way people shop online. By partnering with popular international brands and local retailers, Noon offers a vast array of products across various categories, including fashion, electronics, home goods, and more.",
-      "highlights": [
-        "Culture promoter, mentorship and teaching",
-        "Open Source Software Advocate",
-        "Main technologies involved Node.js, React and Polymer",
-        "Implementing support for multiple languages, including right-to-left (RTL) languages, to ensure a seamless user experience across different regions and cultures."
-      ],
-      "company": "Noon",
-      "website": "https://noon.com"
+      "startDate": "2016-11-30",
+      "endDate": "2017-08-31",
+      "summary": "Lead Cultural Transformation engagements.\nMentor and level-up engineers through holding workshops, designing and giving anchor training, spending 1:1 time with engineers on projects\nActively participate in engineering thought leadership: write blogs, speak at conferences, help marketing in providing customer facing technical content, and hold meetups.\nSupport HR with hiring and interviewing.\nContribute to the company and company culture by being a shining example of attitude and collaboration.\nSteward developer advocacy at TribalScale: suggest and implement engineering toolsets, own engineering retro and prioritizing action items, help design build and release cycle for QA, weekly client releases, and production releases. All to be aligned with extreme programming methodologies.\nProvide engineering support to business development during pre-sales.. Culture promoter, mentorship and teaching. \n\nOpen Source Software Advocate. \n\nMain technologies involved Node.js, React and Polymer.",
+      "website": "https://www.linkedin.com/company/nooncom/"
     },
     {
-      "name": "BBVA",
-      "location": "Madrid, ES",
-      "description": "BBVA desc",
-      "position": "JavaScript Guru, Coach & Developer Advocate",
-      "url": "https://bbva.ces",
-      "startDate": "2015-12-01",
-      "endDate": "2016-09-01",
-      "summary": "Pied Piper is a multi-platform technology based on a proprietary universal compression algorithm that has consistently fielded high Weisman Scores™ that are not merely competitive, but approach the theoretical limit of lossless compression.",
+      "company": "BBVA",
+      "highlights": [],
+      "position": "JavaScript Guru, Coach and Developer Advocate",
+      "startDate": "2015-01-31",
+      "endDate": "2016-11-30",
+      "summary": "I've been promoting a new developer community, creating courses, giving \nlectures, seminars and workshops guiding developers through JavaScript, git and \ncontinous integration procedures. Watching for the application of good practices in all those fields.\n\nAlso leading core teams and creating new developers tools to improve the developing time and processes.",
       "highlights": [
         "Promoting a new developer community, creating courses, giving lectures, seminars and workshops guiding developers through JavaScript, git and continous integration procedures.",
         "Watching for the application of good practices in all those fields.",
         "Leading core teams and creating new developers tools to improve the developing time and processes."
       ],
-      "company": "Serquo",
-      "website": "https://Serquo.com"
+      "website": "https://www.linkedin.com/company/bbva/"
     },
     {
-      "name": "Telefonica",
-      "location": "Madrid",
-      "description": "Telefonica desc",
-      "position": "JavaScript Architect & Full Stack JavaScript Developer",
-      "url": "https://telefonica.com",
-      "startDate": "2014-05-01",
-      "endDate": "2015-12-01",
+      "company": "Telefonica",
       "summary": "Telefónica is a Spanish multinational telecommunications company that provides a wide range of services including fixed and mobile telephony, internet, and digital television to individuals, businesses, and governments in Europe, Latin America, and the Caribbean.",
-      "highlights": [
-        "Build an algorithm for artist to detect if their music was violating copy right infringement laws",
-        "Successfully won Techcrunch Disrupt",
-        "Optimized an algorithm that holds the current world record for Weisman Scores"
-      ],
-      "website": "https://telefonica.com"
+      "highlights": [],
+      "position": "JavaScript Architect & Full Stack JavaScript Developer",
+      "startDate": "2015-05-31",
+      "endDate": "2016-01-31",
+      "website": "https://www.linkedin.com/company/telefonica/",
+      "url": "https://telefonica.com"
     },
     {
-      "name": "ADESIS Netlife",
-      "location": "Madrid",
-      "description": "ADESIS Netlife desc",
+      "company": "ADESIS Netlife",
+      "highlights": [],
       "position": "Full Stack JavaScript Developer",
-      "url": "https://telefonica.com",
-      "startDate": "2013-05-01",
-      "endDate": "2014-05-01",
-      "summary": "Pied Piper is a multi-platform technology based on a proprietary universal compression algorithm that has consistently fielded high Weisman Scores™ that are not merely competitive, but approach the theoretical limit of lossless compression.",
-      "highlights": [
-        "Coordinate the frontend team for the project, as well as the interaction between this team, the .NET and Tridion teams",
-        "Evaluate the correct implementation and workflows involved in tasks specific to the team, providing solutions to problematic cases",
-        "Establish standards and best practices that the team will work with, as well as ensure their compliance",
-        "Serve as a liaison with the client for matters related to frontend andusability (UI/UX)",
-        "Propose solutions to assigned tasks, improving usability to the extent possible. Implement these solutions"
-      ],
-      "website": "https://noon.com"
+      "startDate": "2014-06-30",
+      "endDate": "2015-05-31",
+      "summary": "Coordinación del equipo frontend del proyecto, así como la interacción entre dicho equipo y los equipos de .NET y Tridion.\n\nEvaluar la correcta implementación y los flujos de trabajo implicados de las tareas propias del equipo. Aportando soluciones sobre los casos problemáticos.\n\nEstablecer los standard y buenas prácticas sobre los que trabajará el equipo, así como seguir su cumplimiento.\n\nInterlocutor con el cliente para los asuntos relativos a frontend y usabilidad (UI/UX).\n\nProponer soluciones a las tareas encomendadas, mejorando en la medida de lo posible, la usabilidad de las mismas. Implementar dichas soluciones.",
+      "website": "https://www.linkedin.com/company/adesisdigital/"
     },
     {
       "location": "Madrid, ES",
       "description": "Repsol desc",
       "position": "Repsol",
       "url": "https://repsol.com",
-      "startDate": "2005-12-01",
-      "endDate": "2006-12-01",
+      "startDate": "2014-06-01",
+      "endDate": "2015-05-31",
       "summary": "Pied Piper is a multi-platform technology based on a proprietary universal compression algorithm that has consistently fielded high Weisman Scores™ that are not merely competitive, but approach the theoretical limit of lossless compression.",
       "highlights": [
         "Build an algorithm for artist to detect if their music was violating copy right infringement laws",
@@ -192,7 +169,14 @@
       ],
       "website": "https://repsol.com"
     },
-
+    {
+      "company": "Urbaser",
+      "endDate": "2014-06-30",
+      "highlights": [],
+      "position": "Full Stack developer",
+      "startDate": "2012-05-31",
+      "website": ""
+    },
     {
       "name": "U-TAD University",
       "location": "Madrid",
@@ -209,35 +193,16 @@
       ],
       "company": "UTAD University",
       "website": "https://u-tad.com"
+    },
+    {
+      "company": "Profesionalnet",
+      "endDate": "2012-05-31",
+      "highlights": [],
+      "position": "Senior web developer",
+      "startDate": "2012-01-31",
+      "website": ""
     }
   ],
-  "volunteer": [
-    {
-      "organization": "CoderDojo",
-      "position": "Teacher",
-      "url": "http://coderdojo.example.com/",
-      "startDate": "2012-01-01",
-      "endDate": "2013-01-01",
-      "summary": "Global movement of free coding clubs for young people.",
-      "highlights": ["Awarded 'Teacher of the Month'"]
-    },
-    {
-      "organization": "Cruz Roja",
-      "position": "Teacher",
-      "url": "http://coderdojo.example.com/",
-      "startDate": "2012-01-01",
-      "endDate": "2013-01-01",
-      "summary": "Global movement of free coding clubs for young people.",
-      "highlights": ["Awarded 'Teacher of the Month'"]
-    },
-    {
-      "organization": "Foo Bootcamp",
-      "position": "Teacher",
-      "url": "http://coderdojo.example.com/",
-      "startDate": "2012-01-01",
-      "endDate": "2013-01-01",
-      "summary": "Global movement of free coding clubs for young people.",
-      "highlights": ["Awarded 'Teacher of the Month'"]
     }
   ],
   "education": [
